@@ -1,0 +1,73 @@
+body{
+    background-color: #222222;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1{
+    color: antiquewhite;
+}
+
+section{
+    background-color:white;
+    color: black;
+    border-radius: 4px;
+    box-shadow: 4px 4px 1px black;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+
+input{
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 50px;
+}
+
+.input{
+    color: antiquewhite;
+    border-radius: 4px;
+    width: 110px;
+    background-color: #222222;
+    border: 1px solid black;
+    outline: inherit;
+    margin-bottom: 10px;
+}
+
+select{
+    border-radius: 4px;
+    border: 1px solid black;
+    outline: inherit;
+
+}
+
+.social{
+    margin-top: 50px;
+  
+}
+
+.fa {
+    padding: 10px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin{
+    background: #0e76a8;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #222222;
+}
+
+.fa-github{
+    background-color: #000000;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid #222222;
+}
